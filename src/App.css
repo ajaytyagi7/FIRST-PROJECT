@@ -1,0 +1,102 @@
+.mycard{
+    
+    
+}
+
+.myimg{
+    height: 400px;
+}
+.overlays {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 70px;
+    padding-top: 250px;
+}
+
+.mybtn{
+    border-radius: 20px;
+}
+.overlays1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    
+}
+.overlays2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+   padding-left: 30px;
+    
+}
+.myimg3{
+    height: 350px;
+}
+.mycard2{
+    height: 510px;
+}
+
+.myimg4{
+    height: 550px;
+    width: 630px;
+}
+.myimg5{
+    height: 550px;
+    width: 610px;
+}
+
+.men{
+    position: absolute;
+    top: 600px;
+    left: 130px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+}
+
+.women{
+    position: absolute;
+    top: 600px;
+    left: 770px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+}
+.search{
+    margin-left: 400px;
+}
+.myshop{
+    margin-left: 160px;
+}
+
+.myimg6{
+    height: 250px;
+}
+.contactimg{
+    height: 430px;
+}
+.aboutimg{
+    height: 550px;
+}
+.myinput{
+    margin-left: 270px;
+}
